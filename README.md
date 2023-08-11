@@ -5,7 +5,8 @@ Hi 👋 My name is To Van Hieu
 I am a blog writer and IT lecturer
 ----------------------------------
 
-My major is Information and Communication Engineering, I have more than seven years experience in IT fields. I am passionate about cutting-edge technologies such as: Artificial Intelligence (AI) and Machine Learning (ML), 5G Technology, Blockchain,... My hobbies is: exercising, traveling, and learning languages.
+My major is Information and Communication Engineering, I have more than seven years experience in IT fields. I am passionate about cutting-edge technologies such as: Artificial Intelligence (AI) and Machine Learning (ML), 5G Technology, Blockchain,... 
+My hobbies is: exercising, traveling, and learning languages.
 
 * 🌍  I'm based in Ha Long city, Viet Nam
 * ✉️  You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
@@ -14,7 +15,11 @@ My major is Information and Communication Engineering, I have more than seven ye
 
 
 <p align="left">
-ICON ICON ICON ICON ICON
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="">
 </p>
 
 
