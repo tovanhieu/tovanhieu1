@@ -19,8 +19,10 @@ My hobbies is: exercising, traveling, and learning languages.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="30px" height="30px" alt="">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="30px" height="30px" alt="">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30px" height="30px" alt="">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png"  width="30px" height="30px" alt="">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="30px" height="30px" alt="">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="30px" height="30px" alt="">
+  
 </p>
 
 
