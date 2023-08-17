@@ -2,7 +2,7 @@
 Hi everybody 👋 My name is Hieu, you can call me Toni
 ============================
 
-I am a blog writer and an IT lecturer 👨‍💻
+I am a blog writer 👨‍💻 and an IT lecturer 👨‍🔬
 ----------------------------------
 
 My major is Information and Communication Engineering, I have more than seven years experience in IT fields. I am passionate about cutting-edge technologies such as: Artificial Intelligence (AI) and Machine Learning (ML), 6G Technology, Blockchain, Cloud Computing... \
@@ -22,6 +22,9 @@ My hobbies are exercising 🏃‍♂️, traveling ✈️, and learning language
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png"  width="30px" height="30px" alt="">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="30px" height="30px" alt="">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="30px" height="30px" alt="">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kubernetes-icon.png" width="30px" height="30px" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7KjHTXcgfW6r9P_Q3xsgbSdC-RewQObGtQ&usqp=CAU" width="30px" height="30px" alt="">
+<img src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/blockchain-2.png" width="30px" height="30px" alt="">
   
 </p>
 
